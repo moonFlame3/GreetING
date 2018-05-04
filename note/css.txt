@@ -1,0 +1,80 @@
+Technology Used
+================
+
+- Html
+- Css
+- javascript
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+Bootstrap Layout System
+========================
+
+           12
+        6     6
+     4     4     4
+   3   3       3   3
+ 2   2   2   2   2   2    
+1 1 1 1 1 1 1 1 1 1 1 1
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+ID and Classes Used 
+--------------------
+
+grid_sec (.grid_sec)
+
+Select 
+- section that need "display: grid;" 
+
+Adjust
+- grid layout 
+- full screen width
+- full screen hight
+
+
+home_sec (#home_sec)
+
+Select 
+- home page
+
+Adjust
+- align and justify using grid layout 
+
+
+menu_sec (#menu_sec)
+
+Select 
+- menu page
+
+Adjust 
+- styling the whole page using grid layout
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+Link issues
+-------------------
+
+1. Hovering Effect  
+
+Js and Css 
+
+<div class="overlay">
+
+</div>
+
+width - unspecified
+height - unspecified
+
+
+2. Linking Effect
+
+Js and Css 
+
+unspecified
+
+
+//////////////////////////////////////////////////////////////////////////////
