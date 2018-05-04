@@ -70,7 +70,7 @@ width - unspecified
 height - unspecified
 
 
-2. Linking Effect
+2. Link to other page Effect
 
 Js and Css 
 
