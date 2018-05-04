@@ -74,6 +74,17 @@ height - unspecified
 
 Js and Css 
 
+Js
+---
+
+hide_W_time function
+- change home_sec display
+- timeout (1400ms)
+
+
+Css
+----
+
 unspecified
 
 
